@@ -1,0 +1,25 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBaks/Lecture-3-Task3.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "MA MISHUTUSHKIN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxBaks/Lecture-3-Task3/issues"
+  },
+  "homepage": "https://github.com/MaxBaks/Lecture-3-Task3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
